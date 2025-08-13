@@ -1,0 +1,21 @@
+.contenedor{
+    border: 1px solid black;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.bloque {
+    background-color: #7F77FE;
+    height: 50vh;
+    width: 100%;
+    max-width: 414px;
+    position: absolute;
+}
+
+.arrow {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    width: 18px;
+}
